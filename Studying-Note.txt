@@ -12,7 +12,7 @@ $ git push heroku master
 
 // clone the online repository to local machine
 $ heroku git:clone -a sample-151
-$ cd sample9619
+$ cd sample-151
 
 Validation:
 -inputs in generals
