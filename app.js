@@ -47,6 +47,6 @@ app.use('/404',getErrorPage.errorPage);
 app.use('/301', getErrorPage.alertPage);
 
 
-app.listen(process.env.PORT || 3000, () => {
-  console.log("Server is running ar port 3000");
+app.listen(process.env.PORT || 5000, () => {
+  console.log("Server is running ar port 5000");
 });
