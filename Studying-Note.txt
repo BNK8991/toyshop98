@@ -1,0 +1,28 @@
+npm init for package.json file
+npm install for package-lock.json file
+npm install body-parser --save to use body parser, this is used to read the body of requests
+npm install express --save
+npm i handlebars consolidate --save (for handlebars and consolidate)
+$ heroku login
+
+// deploy (push up changes)
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+
+// clone the online repository to local machine
+$ heroku git:clone -a sample-151
+$ cd sample9619
+
+Validation:
+-inputs in generals
+Working with files:
+-Insert a new Node(JSON) to file
+-Show a specific node in file
+Will be asked 2 questions:
+-1 about coding
+-1 about common problems in cloud
+
+
+
+
